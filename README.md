@@ -385,4 +385,3 @@ $ docker push username/friendlyhello
 ## Ejercicios
 
 1. Cambia el `docker-compose.yaml` para usar tu imagen en vez de hacer build.
-2. Cambia el `docker-compose.yaml` para usar la imagen de algún compañero.
